@@ -1,0 +1,110 @@
+Package: vaultpanel
+Architecture: all
+Version: 0.2.0
+Priority: optional
+Section: admin
+Maintainer: VaultPanel <packages@vaultpanel.net>
+Installed-Size: 99304
+Depends: nodejs (>= 22), curl, openssl, ca-certificates, iproute2, tar, gzip
+Filename: pool/vaultpanel_0.2.0_all.deb
+Size: 8557916
+MD5sum: e796461f9977b4c6d4779f2d8b504a66
+SHA1: bc9d359b0a86cf52c238b159c5a1826a4f71f615
+SHA256: 7d8dd812aec0af363fed355f5697e388700502d4e60531857a3d7daa0812a3a9
+SHA512: f98a5f21d47b5b7ad11b72b51de4134f874ac0c6941e47d41075809d397e4778943421a0d4ab32f9be1a2bd84be348637d110e673864c5337c16238f348600e9
+Homepage: https://www.vaultpanel.net
+Description: web control panel for Linux servers
+ VaultPanel connects servers, then deploys and runs websites and apps with
+ their domains, databases, SSL, monitoring, backups and security.
+ .
+ Install it with its installer (https://installer.vaultpanel.net), which also
+ sets up Node.js 22, Docker and the database server for websites and apps.
+
+Package: vaultpanel
+Architecture: all
+Version: 0.2.1
+Priority: optional
+Section: admin
+Maintainer: VaultPanel <packages@vaultpanel.net>
+Installed-Size: 99304
+Depends: nodejs (>= 22), curl, openssl, ca-certificates, iproute2, tar, gzip
+Filename: pool/vaultpanel_0.2.1_all.deb
+Size: 8558652
+MD5sum: 9fb80d74824afa39dcb44e8e4503ae10
+SHA1: caf0cb7e5e30578d45c64941d3889ff26e7ecff8
+SHA256: 3e041394e5ee6ed38a2d86c845c41fdad39b289c2a901d53994c28b7b8adc632
+SHA512: 6487f60d5381956d951017faf2d84287e5ec8e28a5864b150229800e7af96e092f41c88f986091c3ef3311b990bdbbdf8e1d3171af3e642fa2ebc90ac97dc2c0
+Homepage: https://www.vaultpanel.net
+Description: web control panel for Linux servers
+ VaultPanel connects servers, then deploys and runs websites and apps with
+ their domains, databases, SSL, monitoring, backups and security.
+ .
+ Install it with its installer (https://installer.vaultpanel.net), which also
+ sets up Node.js 22, Docker and the database server for websites and apps.
+
+Package: vaultpanel
+Architecture: all
+Version: 0.3.0
+Priority: optional
+Section: admin
+Maintainer: VaultPanel <packages@vaultpanel.net>
+Installed-Size: 99360
+Depends: nodejs (>= 22), curl, openssl, ca-certificates, iproute2, tar, gzip
+Filename: pool/vaultpanel_0.3.0_all.deb
+Size: 8560964
+MD5sum: 0641e3dbaeb2a0a1d6e95d7784ae0167
+SHA1: 3d65c4dfdf3207743fc463f0af5df32be25faeb4
+SHA256: 3acfa8e053176eb8407d4a65463062330d256a02320f2f204a332eeaece518f8
+SHA512: 0582e65df5b4ac0d8a488af34864711ecf8c4aad8a87f22f22deff3618b4639f4a0537803070a79cdc65ca811e45bb18d4d24e421163e0dab13c3b773131d091
+Homepage: https://www.vaultpanel.net
+Description: web control panel for Linux servers
+ VaultPanel connects servers, then deploys and runs websites and apps with
+ their domains, databases, SSL, monitoring, backups and security.
+ .
+ Install it with its installer (https://installer.vaultpanel.net), which also
+ sets up Node.js 22, Docker and the database server for websites and apps.
+
+Package: vaultpanel
+Architecture: all
+Version: 0.3.2
+Priority: optional
+Section: admin
+Maintainer: VaultPanel <packages@vaultpanel.net>
+Installed-Size: 99360
+Depends: nodejs (>= 22), curl, openssl, ca-certificates, iproute2, tar, gzip
+Filename: pool/vaultpanel_0.3.2_all.deb
+Size: 8560852
+MD5sum: 9b13ff5c66af72cb062031d03b3c9615
+SHA1: d58a2108a2ca6ccd6628ee0b3bf93a1158cdadbc
+SHA256: 9a64f24de46ae1f0c6b8045dfb27f9e6d7c8af5d185ffbdf0b62dd5cd6644dba
+SHA512: c61481a0cd4f332bd71b269dd2f4c041027d1ecec4297e66080659ce7692e4225b554f040e15eabb4127d018fdf7359a7bc7ff81bb6a6a8c4300b7829feb6db5
+Homepage: https://www.vaultpanel.net
+Description: web control panel for Linux servers
+ VaultPanel connects servers, then deploys and runs websites and apps with
+ their domains, databases, SSL, monitoring, backups and security.
+ .
+ Install it with its installer (https://installer.vaultpanel.net), which also
+ sets up Node.js 22, Docker and the database server for websites and apps.
+
+Package: vaultpanel
+Architecture: all
+Version: 0.4.0
+Priority: optional
+Section: admin
+Maintainer: VaultPanel <packages@vaultpanel.net>
+Installed-Size: 99420
+Depends: nodejs (>= 22), curl, openssl, ca-certificates, iproute2, tar, gzip
+Filename: pool/vaultpanel_0.4.0_all.deb
+Size: 8565364
+MD5sum: ebfac1d8c85624cffc61e4355748428a
+SHA1: 67b7f0d27fcf3d1346019ac7a60a95ce9d83d4c9
+SHA256: 3c1de96a712168a174fd7ff0b00d48a276940ccd8cab3b8a611a7e680814ad43
+SHA512: b6facc1f619225db7c7663e487a1cdbf1e6b72b3994c4cb609fe3be3786c63b59c256a3b0538153180b9adca6d53e2e01fea03bbdc05bc09608691c125350d50
+Homepage: https://www.vaultpanel.net
+Description: web control panel for Linux servers
+ VaultPanel connects servers, then deploys and runs websites and apps with
+ their domains, databases, SSL, monitoring, backups and security.
+ .
+ Install it with its installer (https://installer.vaultpanel.net), which also
+ sets up Node.js 22, Docker and the database server for websites and apps.
+

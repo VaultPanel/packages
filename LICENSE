@@ -1,0 +1,42 @@
+VaultPanel License
+
+Copyright (C) 2026 Abdulwakili. All rights reserved.
+
+VaultPanel ("the Software") is proprietary software. It is free to use on
+these terms.
+
+1. You may install and use the Software, free of charge, on servers you own
+   or manage, for your own purposes and to provide hosting and other services
+   to your customers, including letting them sign in to it.
+
+2. Without written permission from the copyright holder, you may not:
+   a. copy the Software, except to install it as described in 1 and to keep
+      backups of it;
+   b. modify, translate or adapt the Software, or make works based on it,
+      except by changing its settings through the means it provides;
+   c. sell, resell, rent, lease, lend, sublicense, publish or distribute the
+      Software, or a modified version of it, to anyone;
+   d. reverse engineer the Software, except where the law allows it despite
+      this restriction;
+   e. remove or change any copyright, license or brand notice in it.
+
+3. The Software contains components made by others under their own licenses
+   (open-source licenses, found in its node_modules folders). Those licenses
+   apply to those components, and nothing here limits what they allow. The
+   VaultPanel SDK, command-line tool, WHMCS module and example plugin are
+   licensed under the MIT License, each with its own LICENSE file.
+
+4. Versions of VaultPanel that were published under the MIT License or the
+   GNU Affero General Public License stay available under the license they
+   were published with.
+
+5. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+   IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+6. Your right to use the Software ends if you break these terms. New versions
+   of the Software may come with new terms.

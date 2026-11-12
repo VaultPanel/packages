@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: stable
+Date: Thu, 12 Nov 2026 05:26:05 +0000
+Description: VaultPanel packages
+Label: VaultPanel
+Origin: VaultPanel
+Suite: stable
+MD5Sum:
+ 144e17e3e9d11fe93f30bb4a36bbcc60             4855 Packages
+ e5ea7ee61f21b986d2ba92f67763d128             1413 Packages.gz
+ e2fd990284fec384848ae9d12f345006              139 Release
+SHA1:
+ 8f64615a92bd5aded0190eb3a26143fc1957ec2e             4855 Packages
+ b8f647f9839999c13968dd056c89a5c186a5deb8             1413 Packages.gz
+ ebfcf146951e35184fc48400e8626cee6698bd9d              139 Release
+SHA256:
+ aa0511403b08990b3501ce60d471338a7c5ac362ff52f50eff65f80c3d275b92             4855 Packages
+ afd1c5bf7a0189dc906549e69e6614b2e1bfd70385384e3c134cfa9d12e2371a             1413 Packages.gz
+ 403b9d467a307dff765c0b89001effa509ce930f7d4a505e438912f4eb8de1ce              139 Release
+SHA512:
+ a5332224c943e9a1b1046bb1a3440b09a516753b168a2f759df80ee5de0a6607523aa992f6e11010c9e30337dd5463ed08db2868d6fb8256eb33782c6178428c             4855 Packages
+ f633817c0216b0f89413c07d5b9b38c61e25f51a3c04d28e9e3081d155db9bc67e2b0b1a3b7d840dc2652ec3a843a1bb43b045e01d57365b3260ba94a6e9b836             1413 Packages.gz
+ 3229715bd7a296412e0b3a994fbdd18f03c71a522d4552568cba26f1aad4360e891d3d51120dbe4c5432961325c772c8e500b5cc98e432abac3a305c9fd75378              139 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIyBAEBCgAdFiEEebNNedKn0N5Uo9kGtipHwu0ndaYFAmr1Te0ACgkQtipHwu0n
+dabMFQ/3bawJmPGpbGizM/Bx5ZdkQ92nWk3S7Kp/ECcGuTjjZUox38G+v5uNZVV5
+r5TUYnI0Q2iJ/UQjXwT5nENbvAQkvqv5GpZTHmOKEGYmOhURBksuZgs63YrhHXeu
+KK3fepIJxP3ZL07t0mjoXH8k86kG37tXui6EW7mvMxEVAP8StyOJd6l9zJaKwfst
+uHvRDR8+MMoNSw1HjsesxQ5R+nEs0P80DRn8wPuMbfOP7mMV8gW3vnpCmLtkOsYy
+QOdfmUTNB2d8a7wT2+SwptPHN5BHn9fwyn9aLJi943JTrOqBiLxuZZbbR0q4rgnW
+yGpAapplrIQ/9zOJTDHhPsd9pWEc8PFZwR6z2A0Zb/vNBPB58veQysv+lbkSJSRJ
+D2Wsyc0R/Tl25/u3tZmK8s1Dx1gP+PxA/f0KDP20S59utaZ7ZVn9vwZwBZxd2/XS
+h2oqfI+SSOiRyCPOHyAezN2PRBrsv6nUkQim0Mv71Ss9fzeWgHTm+96AV0gpxKC1
+wf6qiHfEGo6AcCh91D99ZiwBFconFqnKadVXstBH8lx27REsx219e3U6jZr7wnzs
+betXLJ4ZyJ6flkcOA62MGcc6yh/x1Nvq826kvrdfA8rfM2jkvfP82AlBzNtO25Kj
+5HbfLyxiCXunuRV3NJ0kuidDwiT6FOpNBUupHldr8/dJcH/miA==
+=O5qN
+-----END PGP SIGNATURE-----

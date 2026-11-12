@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VaultPanel installer</title>
+<meta name="description" content="Install VaultPanel, a web control panel for Linux servers.">
+<style>
+  :root { --bg: #ffffff; --fg: #1f2328; --muted: #59636e; --code: #f6f8fa; --line: #d1d9e0; --accent: #6366f1; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #0d1117; --fg: #e6edf3; --muted: #9198a1; --code: #151b23; --line: #3d444d; --accent: #8b8ff7; }
+  }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 48px 16px; }
+  h1 { margin: 0 0 4px; font-size: 32px; }
+  h2 { margin-top: 36px; font-size: 20px; }
+  p, li { color: var(--muted); }
+  pre { background: var(--code); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; overflow-x: auto; color: var(--fg); font-size: 14px; }
+  code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <h1>VaultPanel</h1>
+  <p>A web control panel for Linux servers. Latest version: <strong>0.4.0</strong></p>
+
+  <h2>Install</h2>
+  <p>On a fresh Ubuntu 22.04, 24.04 or 26.04, or Debian 12 or 13 server, as root:</p>
+  <pre><code>apt update &amp;&amp; apt -y upgrade &amp;&amp; apt -y install curl wget sudo</code></pre>
+  <pre><code>curl -sS https://installer.vaultpanel.net/v2/install.sh -o install.sh; \
+echo "37779be96c4732cf4fdf5a39a6786b1de60f5361c44bcce4a0f2baaf26495d57 install.sh" | \
+sha256sum -c &amp;&amp; sudo DB_ENGINE=MARIADB_12.3 bash install.sh</code></pre>
+  <p><code>DB_ENGINE</code> chooses the MariaDB version for websites and apps; the versions each system
+    offers are listed on <a href="https://github.com/VaultPanel/packages#install">GitHub</a>.</p>
+
+  <h2>Update</h2>
+  <pre><code>sudo vaultpanel update</code></pre>
+
+  <h2>Help</h2>
+  <p>Questions and problems: <a href="https://github.com/VaultPanel/packages/issues">github.com/VaultPanel/packages/issues</a></p>
+</main>
+</body>
+</html>
